@@ -1,6 +1,5 @@
 import random
 
-
 def heita(tahkot):
     return random.randint(1,tahkot)
 
